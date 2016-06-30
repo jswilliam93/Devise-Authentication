@@ -35,6 +35,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', '3.4.1'
 gem 'bootstrap-sass', '3.3.6'
 gem 'jquery-turbolinks'
+gem 'delayed_job_active_record'
+gem 'devise_zxcvbn'
 
 
 group :development, :test do
